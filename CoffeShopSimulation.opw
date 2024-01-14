@@ -1,0 +1,16 @@
+[RESOURCES]
+Kasiyer
+Calisan
+[VARIABLES]
+Alip Gitti.NumberOut
+Musteri Gelis.NumberOut
+Dukkanda Icme.NumberOut True
+Siparis ve Para Odeme.NumberOut
+Dukkanda Oturdu.NumberOut
+Kahve Cay Secimi.NumberIn
+Alisveris Yapmadan Cikan Musteriler.NumberOut
+Dukkana Girdikten Sonra Alisveris Yapma.NumberOut False
+Dukkana Girdikten Sonra Alisveris Yapma.NumberOut True
+Siparis ve Para Odeme.NumberIn
+Dukkanda Icme.NumberOut False
+Kahve Cay Secimi.NumberOut
